@@ -943,7 +943,7 @@ def build_vault(inventory, out_dir, include_discarded=False, credits=None,
         f"# {ABOUT_NOTE}", "",
         "This vault is **generated** from `music-inventory.json` by "
         "`obsidian_driver.py` in the [music-curator]"
-        "(https://github.com/lentago/music-curator) repo. Don't hand-edit the "
+        "(https://github.com/cpitzi/music-curator) repo. Don't hand-edit the "
         "notes — regenerate instead; edits are overwritten.", "",
         "## Reading the graph", "",
         "- Every **artist** links to exactly one hub — its **subcategory** where "

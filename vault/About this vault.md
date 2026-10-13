@@ -5,7 +5,7 @@ tags: ["moc"]
 
 # About this vault
 
-This vault is **generated** from `music-inventory.json` by `obsidian_driver.py` in the [music-curator](https://github.com/lentago/music-curator) repo. Don't hand-edit the notes — regenerate instead; edits are overwritten.
+This vault is **generated** from `music-inventory.json` by `obsidian_driver.py` in the [music-curator](https://github.com/cpitzi/music-curator) repo. Don't hand-edit the notes — regenerate instead; edits are overwritten.
 
 ## Reading the graph
 

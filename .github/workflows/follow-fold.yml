@@ -22,7 +22,7 @@ name: Fold follow events
 # creates and the PR would block forever. Making `integrity` required therefore
 # has to be sequenced with pushing this commit under a token that re-triggers CI
 # (a PAT), or with accepting that folded PRs wait for a human merge.
-# See lentago/music-curator#9.
+# See cpitzi/music-curator#9 (filed while the repo was lentago/music-curator).
 
 on:
   pull_request:
